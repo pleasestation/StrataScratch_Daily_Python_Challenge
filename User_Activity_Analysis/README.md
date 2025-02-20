@@ -16,9 +16,8 @@ This project aims to identify users who have logged at least one activity within
   - ML Engineer
   - Software Engineer
     
-# Identify users who have logged at least one activity within 30 days of their registration date.
-Your output should include the user’s ID, registration date, and a count of the number of activities logged within that 30-day period.
-Do not include users who did not perform any activity within this 30-day period.
+# Interview Question
+Identify users who have logged at least one activity within 30 days of their registration date. Your output should include the user’s ID, registration date, and a count of the number of activities logged within that 30-day period. Do not include users who did not perform any activity within this 30-day period.
 
 ## Database Schema
 
